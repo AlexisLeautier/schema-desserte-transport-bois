@@ -1,7 +1,8 @@
 # Standard National de données dessertes pour le transport de bois
 
 ## Contexte
-La [documentation du standard](https://cnig.gouv.fr/IMG/documents_wordpress/2019/09/Dictionnaire_donnees_standard_dessertes_transport_de_bois_v4.pdf) est disponible ici.
+> [!TIP]
+> Le standard CNIG Desserte pour le transport de bois n'a pas de schéma directement exploitable par schema.data.gouv.fr. Vous pouvez consulter la [documentation du standard](https://cnig.gouv.fr/gt-dessertes-pour-le-transport-de-bois-a18535.html) sur le site du CNIG.
 
 Le standard national de données desserte pour le transport de bois a été élaboré sous l’égide du CNIG (Conseil National pour l’Information Géographique).Son but est de définir avec les utilisateurs un modèle de données partagé afin d’homogénéiser les pratiques lors de la numérisation de données liées au transport du bois.
 
